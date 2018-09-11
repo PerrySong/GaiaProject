@@ -2,6 +2,7 @@
 
 ### Class
 * Hex
+
 |DataMenber|Discription|
 |----------|-----------|
 |int x, y, z| Indicate this hex position in current tile|
